@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Divyansh Dahikar! 👋
 
-<!--
-**divyanshdahikar/divyanshdahikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+I am a **Data Science Enthusiast** currently pursuing BCA. I love working with data,
+machine learning, and analytics.
+My goal is to become a skilled data scientist and share my journey along the way.
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:**
+- Learning and building Machine Learning models
+- Exploring Data Science concepts and projects
+- Creating content for my YouTube channel on Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:**
+- Deep Learning & Neural Networks
+- Advanced Machine Learning Algorithms
+
+📫 **How to reach me:**
+- 📩 Email: [My email](mailto:divyanshdahikar.ds@gmail.com)
+- 🔗 LinkedIn: [My LinkedIn](www.linkedin.com/in/divyansh-ds)
+ 
+💡 **Fun Fact:** I enjoy delving deep into topics,
+exploring the intricacies behind algorithms, and mastering the details that make a difference! 🔍📊🚀
