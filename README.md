@@ -16,7 +16,7 @@ My goal is to become a skilled data scientist and share my journey along the way
 
 📫 **How to reach me:**
 - 📩 Email: [My email](mailto:divyanshdahikar.ds@gmail.com)
-- 🔗 LinkedIn: [My LinkedIn](www.linkedin.com/in/divyansh-ds)
+- 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/divyansh-ds)
  
 💡 **Fun Fact:** I enjoy delving deep into topics,
 exploring the intricacies behind algorithms, and mastering the details that make a difference! 🔍📊🚀
