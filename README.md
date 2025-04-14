@@ -1,4 +1,4 @@
-## Hi there, I'm Divyansh Dahikar! 👋
+## Hi there, I'm Divyansh! 👋
 
 🚀 **About Me**
 I am a **Data Science Enthusiast** currently pursuing BCA. I love working with data,
