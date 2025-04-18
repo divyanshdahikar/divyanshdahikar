@@ -11,7 +11,7 @@ My goal is to become a skilled data scientist and share my journey along the way
 - Creating content for my YouTube channel on Data Science
 
 💼 **Projects I've Worked On:**
-- 🛳️ Titanic Survival Prediction – Built a machine learning model to predict passenger
+- 🛳️ Titanic Survival Prediction [Project](https://github.com/divyanshdahikar/Titanic-survival-prediction) – Built a machine learning model to predict passenger
 survival using classification algorithms and data preprocessing techniques.
 - 💳 Credit Card Fraud Detection – Developed a fraud detection system using machine learning
 to identify suspicious transactions from imbalanced datasets.
