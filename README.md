@@ -1,5 +1,4 @@
 ## Hi there, I'm Divyansh! 👋
-![Profile views](https://komarev.com/ghpvc/?username=divyanshdahikar&color=blue)
 🚀 **About Me**
 I am a **Data Science Enthusiast** currently pursuing BCA. I love working with data,
 machine learning, and analytics.
