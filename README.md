@@ -13,6 +13,9 @@ My goal is to become a skilled data scientist and share my journey along the way
 - 🛳️ Titanic Survival Prediction [Project](https://github.com/divyanshdahikar/Titanic-survival-prediction) – Built a machine learning model to predict passenger
 survival using classification algorithms and data preprocessing techniques.
 
+- 🛒 Supermarket Sales Analysis [Project](https://github.com/divyanshdahikar/Supermarket-Sales-Analysis) – Performed EDA on point-of-sale data to uncover trends in customer behavior,
+revenue patterns, and product category insights.
+
 - 💳 Credit Card Fraud Detection [Project](https://github.com/divyanshdahikar/Credit-Card-Fraud-Detector) – Developed a fraud detection system using machine learning
 to identify suspicious transactions from imbalanced datasets.
 
@@ -21,9 +24,6 @@ to identify suspicious transactions from imbalanced datasets.
 
 - 🗳️ Trump vs Biden Tweet Sentiment Analysis [Project](https://github.com/divyanshdahikar/Sentiment_Analysis) – Analyzed public opinion by cleaning, visualizing,
 and classifying the sentiment of tweets using NLP and a logistic regression model.
-
-- 🛒 Supermarket Sales Analysis [Project](https://github.com/divyanshdahikar/Supermarket-Sales-Analysis) – Performed EDA on point-of-sale data to uncover trends in customer behavior,
-revenue patterns, and product category insights.
 
 🌱 **Currently Learning:**
 - Deep Learning & Neural Networks
