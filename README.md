@@ -54,6 +54,6 @@ and classifying the sentiment of tweets using NLP and a logistic regression mode
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=divyanshdahikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshdahikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://streak-stats.demolab.com?user=divyanshdahikar&theme=dark&hide_border=false)
 ](https://streak-stats.demolab.com/?user=divyanshdahikar&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshdahikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
