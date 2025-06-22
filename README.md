@@ -50,3 +50,13 @@ and classifying the sentiment of tweets using NLP and a logistic regression mode
 - **Data is the new oil… but don’t forget it needs refining first!**  
   This quote is popular in the data world, but people forget that crude oil isn’t useful until it’s refined — just like raw data.  
   📌 A good reminder: **Collecting is not enough. Clean, analyze, act!**
+
+---
+
+## 📊 My GitHub Stats
+
+Here’s a snapshot of my recent activity and languages I've used:
+
+![GitHub Stats](./github-stats.png)
+
+---
