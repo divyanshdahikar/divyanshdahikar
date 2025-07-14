@@ -31,7 +31,7 @@ and classifying the sentiment of tweets using NLP and a logistic regression mode
 
 📫 **How to reach me:**
 - 📩 Email: [My email](mailto:divyanshdahikar.ds@gmail.com)
-- 🔗 LinkedIn: [My LinkedIn](www.linkedin.com/in/divyanshdahikar-ds/)
+- 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/divyanshdahikar-ds)
  
 ## 🧠 Fun Facts from the World of Data Science
 
